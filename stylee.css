@@ -1,0 +1,21 @@
+header {
+ 	color: #7F006EFF;
+ 	background: #DB8E12FF;
+ }
+
+section {
+	color: orange;
+}
+
+article {
+	color: black
+}
+
+aside {
+	color: #DB8E12FF;
+	background: #7F006EFF;
+}
+
+footer {
+	background: #7F006EFF;
+}
