@@ -1,21 +1,20 @@
 header {
- 	color: #7F006EFF;
- 	background: #DB8E12FF;
- }
+	background: #E2C2B0FF;
+}
 
 section {
-	color: orange;
+   color: black;
 }
 
 article {
-	color: black
+   color: black
 }
 
 aside {
-	color: #DB8E12FF;
-	background: #7F006EFF;
+   color: black;
+   background: #E0AE93FF;
 }
 
 footer {
-	background: #7F006EFF;
+   background: #E0AE93FF;
 }
